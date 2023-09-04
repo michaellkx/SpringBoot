@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="main.order.mapper.OrderMapper">
+
+    <resultMap id="defResultMap" type="main.order.entity.OrderVO">
+        <result column="order_pk" property="orderPk" />
+        <result column="order_id" property="orderId"></result>
+        <result column="order_num" property="orderNum"></result>
+        <result column="order_name" property="orderName"></result>
+    </resultMap>
+
+
+    <select id="queryOrders" resultMap="defResultMap">
+      select * from  ordertable a where order_id = #{id} ;
+    </select>
+
+
+    <insert id="insertOrder"  parameterType = "main.order.entity.OrderVO">
+        insert into ordertable values (#{orderPk},#{orderId},#{orderName},#{orderNum});
+    </insert>
+
+
+    <insert id="insertBatchOrders"  parameterType = "main.order.entity.OrderVO">
+        insert into
+            ordertable
+        values
+        <foreach collection="list" index="index" item="item" separator=",">
+            (
+                #{item.orderPk},
+                #{item.orderId},
+                #{item.orderName},
+                #{item.orderNum}
+            )
+        </foreach>
+    </insert>
+
+
+    <select id="queryByWhere" parameterType = "main.order.entity.OrderVO" resultMap="defResultMap">
+        select * from
+            ordertable
+        where 1=1
+        <if test=" orderId != null and orderId != '' ">
+            AND order_id = #{orderId}
+        </if>
+        <if test=" orderNum != null and orderNum != '' ">
+            AND order_num = #{orderNum}
+        </if>
+    </select>
+
+
+    <select id="queryAll" resultMap="defResultMap">
+        select * from ordertable;
+    </select>
+
+    <!-- when没有练习 -->
+
+    <delete id="deleteAll">
+        delete from ordertable ;
+    </delete>
+
+
+</mapper>

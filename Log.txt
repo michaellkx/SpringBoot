@@ -1,0 +1,1535 @@
+日志标识:pk_F753C2A0E7E445
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Sun Aug 27 22:00:14 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_2DEEE011B51044
+请求参数:null
+请求时间:Sun Aug 27 22:00:14 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_48AC31C40AC741
+请求参数:null
+请求时间:Tue Aug 29 10:33:50 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_9B94D424986042
+请求参数:null
+请求时间:Tue Aug 29 10:34:18 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_5D86FBF5D3BC47
+请求参数:null
+请求时间:Tue Aug 29 10:37:16 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_8DCB014DA3F847
+请求参数:null
+请求时间:Tue Aug 29 10:41:11 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_2C952C11457941
+请求参数:null
+请求时间:Tue Aug 29 10:41:11 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_6893A04EAF8A43
+请求参数:null
+请求时间:Tue Aug 29 10:41:11 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_DE6174D5758644
+请求参数:null
+请求时间:Tue Aug 29 10:41:23 CST 2023
+请求状态:0
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_CE0618F120CE42
+请求参数:null
+请求时间:Wed Aug 30 10:40:46 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错null
+返回值:null
+****************************************************************
+日志标识:pk_4EB57929A9E349
+请求参数:null
+请求时间:Wed Aug 30 10:42:29 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错null
+返回值:null
+****************************************************************
+日志标识:pk_58ABA015700B4B
+请求参数:null
+请求时间:Wed Aug 30 10:45:06 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错null
+返回值:null
+****************************************************************
+日志标识:pk_C214D660150C4B
+请求参数:null
+请求时间:Wed Aug 30 10:45:38 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错null
+返回值:null
+****************************************************************
+日志标识:pk_34868FAF87274B
+请求参数:null
+请求时间:Wed Aug 30 10:49:53 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错null
+返回值:null
+****************************************************************
+日志标识:pk_E5F22A3AD4D64D
+请求参数:null
+请求时间:Wed Aug 30 11:43:27 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错非法的权限字段:null
+返回值:null
+****************************************************************
+日志标识:pk_9875DA0AE60649
+请求参数:null
+请求时间:Wed Aug 30 11:44:05 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错非法的权限字段:null
+返回值:null
+****************************************************************
+日志标识:pk_8DE9F4C5CDCE4B
+请求参数:null
+请求时间:Wed Aug 30 11:44:07 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错非法的权限字段:null
+返回值:null
+****************************************************************
+日志标识:pk_C6266450070244
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 11:44:56 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_10271DFDCB6D4B
+请求参数:null
+请求时间:Wed Aug 30 11:44:57 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_7F55464CAB574A
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 11:45:02 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_634ADA5940BD4C
+请求参数:null
+请求时间:Wed Aug 30 11:45:02 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_9EF7853A975F49
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 11:45:06 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_7F47533D74F24C
+请求参数:null
+请求时间:Wed Aug 30 11:45:06 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_5E2EEF107C7D4B
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 11:46:21 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_02354B2EB8E54A
+请求参数:null
+请求时间:Wed Aug 30 11:46:21 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_C85FD94D54704F
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 12:50:30 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_C00F9D15866549
+请求参数:null
+请求时间:Wed Aug 30 12:50:30 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_2C47B9C581764A
+请求参数:null
+请求时间:Wed Aug 30 12:55:43 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_A2377E6D05774E
+请求参数:null
+请求时间:Wed Aug 30 12:57:11 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_245EB07E49724B
+请求参数:null
+请求时间:Wed Aug 30 13:02:19 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_0CF4A06429184B
+请求参数:null
+请求时间:Wed Aug 30 13:07:45 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_4CEFB83ABFDB47
+请求参数:org.apache.catalina.connector.RequestFacade@37141232
+请求时间:Wed Aug 30 13:08:57 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_0F301F6FEEF147
+请求参数:org.apache.catalina.connector.RequestFacade@4143c509
+请求时间:Wed Aug 30 13:10:49 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_8E73FAC9AEF747
+请求参数:org.apache.catalina.connector.RequestFacade@1a7d6bcc
+请求时间:Wed Aug 30 13:16:01 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_1B937702E9DD4A
+请求参数:org.apache.catalina.connector.RequestFacade@3ca8b986
+请求时间:Wed Aug 30 13:18:07 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_F9947EB8C41540
+请求参数:org.apache.catalina.connector.RequestFacade@4ba8f6fd
+请求时间:Wed Aug 30 13:20:27 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_549D7D70B28043
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 13:25:34 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_C1E96BBCC55246
+请求参数:null
+请求时间:Wed Aug 30 13:25:34 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_B33210B1E7BA40
+请求参数:org.apache.catalina.connector.RequestFacade@25e7ba13
+请求时间:Wed Aug 30 13:27:58 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_4A20032CD44141
+请求参数:org.apache.catalina.connector.RequestFacade@25e7ba13
+请求时间:Wed Aug 30 13:30:27 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_0C2E1F1811D642
+请求参数:org.apache.catalina.connector.RequestFacade@687d6c28
+请求时间:Wed Aug 30 13:31:23 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_6EF1E86A29D941
+请求参数:null
+请求时间:Wed Aug 30 13:32:30 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_C3A627FC48DF43
+请求参数:null
+请求时间:Wed Aug 30 13:33:14 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_84BA389EE66644
+请求参数:null
+请求时间:Wed Aug 30 13:33:24 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_44B5FFE6388C45
+请求参数:null
+请求时间:Wed Aug 30 13:37:16 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_621153FF372048
+请求参数:null
+请求时间:Wed Aug 30 13:37:22 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_35FB5DC62B674F
+请求参数:null
+请求时间:Wed Aug 30 13:38:46 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_C0256EF743B245
+请求参数:null
+请求时间:Wed Aug 30 13:38:56 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_32E40B007CBB47
+请求参数:null
+请求时间:Wed Aug 30 13:39:58 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_F3ECFCB9169A44
+请求参数:null
+请求时间:Wed Aug 30 13:40:45 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_225B70E318C142
+请求参数:null
+请求时间:Wed Aug 30 13:41:49 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_B01AC3B529E546
+请求参数:null
+请求时间:Wed Aug 30 13:42:29 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_21B9F2D30C5341
+请求参数:null
+请求时间:Wed Aug 30 13:44:03 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_609E2781F8E54D
+请求参数:null
+请求时间:Wed Aug 30 13:49:22 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_74FEC016F99F4D
+请求参数:null
+请求时间:Wed Aug 30 13:50:07 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_DF8168FF724E43
+请求参数:null
+请求时间:Wed Aug 30 13:58:50 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_9B061C7FE4064C
+请求参数:null
+请求时间:Wed Aug 30 13:59:05 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_FCB6958B514D4C
+请求参数:null
+请求时间:Wed Aug 30 13:59:34 CST 2023
+请求状态:20
+异常信息:对加了@NeedSuper注解的方法进行权限的验证处理出现异常main.order.controller.LoginController.login()
+返回值:null
+****************************************************************
+日志标识:pk_D041AA384DC545
+请求参数:null
+请求时间:Wed Aug 30 14:00:45 CST 2023
+请求状态:20
+异常信息:对加了@NeedSuper注解的方法进行权限的验证处理出现异常main.order.controller.LoginController.login()
+返回值:null
+****************************************************************
+日志标识:pk_7816C7BA3CD943
+请求参数:null
+请求时间:Wed Aug 30 14:01:23 CST 2023
+请求状态:20
+异常信息:对加了@NeedSuper注解的方法进行权限的验证处理出现异常null
+返回值:null
+****************************************************************
+日志标识:pk_CE59FEE9300F40
+请求参数:null
+请求时间:Wed Aug 30 14:02:04 CST 2023
+请求状态:20
+异常信息:对加了@NeedSuper注解的方法进行权限的验证处理出现异常null
+返回值:null
+****************************************************************
+日志标识:pk_0162EC3E0CB847
+请求参数:null
+请求时间:Wed Aug 30 14:20:34 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_A43311AC98C448
+请求参数:null
+请求时间:Wed Aug 30 14:20:49 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_91BCAA13A7B84D
+请求参数:null
+请求时间:Wed Aug 30 14:23:16 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_20227EB86B4D4D
+请求参数:null
+请求时间:Wed Aug 30 14:23:45 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_57590E76FB7940
+请求参数:null
+请求时间:Wed Aug 30 14:26:24 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_A4A5E8B0C46D4F
+请求参数:null
+请求时间:Wed Aug 30 14:27:59 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_54A460D46CCE40
+请求参数:null
+请求时间:Wed Aug 30 14:28:04 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_39C6031E4F974B
+请求参数:null
+请求时间:Wed Aug 30 14:28:05 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_77B353B2C81249
+请求参数:null
+请求时间:Wed Aug 30 14:28:05 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_5F19D5219AC244
+请求参数:null
+请求时间:Wed Aug 30 14:28:12 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_E04833AA154041
+请求参数:null
+请求时间:Wed Aug 30 14:28:40 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_7A5B745E5E1C46
+请求参数:null
+请求时间:Wed Aug 30 14:33:19 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_3D922E7A18A040
+请求参数:null
+请求时间:Wed Aug 30 14:36:47 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_ED3261251F6C44
+请求参数:null
+请求时间:Wed Aug 30 14:40:29 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_5D8E0AE846C542
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 15:42:33 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_5B75E74067B340
+请求参数:null
+请求时间:Wed Aug 30 15:42:35 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_B24C28E00FFA49
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 15:57:26 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_55CB346606BC48
+请求参数:null
+请求时间:Wed Aug 30 15:57:26 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_1D7C45251EE44D
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 15:57:27 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_BBBF1396C2344F
+请求参数:null
+请求时间:Wed Aug 30 15:57:27 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_91D16D1CF4A145
+请求参数:null
+请求时间:Wed Aug 30 15:58:41 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_2698E233EE9544
+请求参数:null
+请求时间:Wed Aug 30 15:59:52 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_917C9F0B8A9246
+请求参数:null
+请求时间:Wed Aug 30 16:00:10 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_2B0999506F0043
+请求参数:null
+请求时间:Wed Aug 30 16:03:39 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_64CA9F4D205340
+请求参数:null
+请求时间:Wed Aug 30 16:04:04 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_374D3ECD645F4C
+请求参数:null
+请求时间:Wed Aug 30 16:04:20 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_86F36AE84FFE46
+请求参数:null
+请求时间:Wed Aug 30 16:05:48 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_C8F6099D4DC843
+请求参数:null
+请求时间:Wed Aug 30 16:06:20 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_ED47D60C2C444E
+请求参数:null
+请求时间:Wed Aug 30 16:07:23 CST 2023
+请求状态:20
+异常信息:nullnull
+返回值:null
+****************************************************************
+日志标识:pk_0662CC06BAA245
+请求参数:null
+请求时间:Wed Aug 30 16:09:16 CST 2023
+请求状态:20
+异常信息:nullnull
+返回值:null
+****************************************************************
+日志标识:pk_5BA500B8C2B34B
+请求参数:null
+请求时间:Wed Aug 30 16:12:56 CST 2023
+请求状态:20
+异常信息:nullnull
+返回值:null
+****************************************************************
+日志标识:pk_A04875E496EC40
+请求参数:null
+请求时间:Wed Aug 30 16:17:51 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_4B4CAFD765E24A
+请求参数:null
+请求时间:Wed Aug 30 16:17:52 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_4225B764FC9545
+请求参数:null
+请求时间:Wed Aug 30 16:18:04 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_B9DB4ADA30B347
+请求参数:null
+请求时间:Wed Aug 30 16:18:46 CST 2023
+请求状态:20
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_FB4E07363AB748
+请求参数:null
+请求时间:Wed Aug 30 16:19:05 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: 对加了@NeedSuper注解的方法进行权限的验证处理出现异常对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_F84336A1C9D548
+请求参数:null
+请求时间:Wed Aug 30 16:19:13 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: 对加了@NeedSuper注解的方法进行权限的验证处理出现异常对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_16063A9458D847
+请求参数:null
+请求时间:Wed Aug 30 16:20:47 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: 对加了@NeedSuper注解的方法进行权限的验证处理出现异常对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_BDA59E93423D4E
+请求参数:null
+请求时间:Wed Aug 30 16:24:15 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: 对加了@NeedSuper注解的方法进行权限的验证处理出现异常对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_2C364F68019247
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 16:24:26 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_86F8D5B17D794E
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Wed Aug 30 16:25:43 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_DD10B6B953A344
+请求参数:null
+请求时间:Wed Aug 30 16:25:48 CST 2023
+请求状态:20
+异常信息:
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+### The error may exist in main/order/mapper/OrderMapper.xml
+### The error may involve main.order.mapper.OrderMapper.insertBatchOrders-Inline
+### The error occurred while setting parameters
+### SQL: insert into             ordertable         values                        (                 ?,                 ?,                 ?,                 ?             )          ,              (                 ?,                 ?,                 ?,                 ?             )
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+; Duplicate entry 'PK_A0000685' for key 'PRIMARY'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PK_A0000685' for key 'PRIMARY'
+返回值:null
+****************************************************************
+日志标识:pk_DC265EAFF06F47
+请求参数:null
+请求时间:Wed Aug 30 16:34:54 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: 对加了@NeedSuper注解的方法进行权限的验证处理出现异常对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_72CCD34002AB42
+请求参数:null
+请求时间:Wed Aug 30 16:35:13 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: 对加了@NeedSuper注解的方法进行权限的验证处理出现异常对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_2514874ED3F448
+请求参数:null
+请求时间:Wed Aug 30 16:36:07 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_D733D26A308640
+请求参数:null
+请求时间:Wed Aug 30 16:36:47 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_05BE60BC9F1749
+请求参数:null
+请求时间:Wed Aug 30 16:39:21 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_8B28C6BCC48F4E
+请求参数:null
+请求时间:Wed Aug 30 16:39:22 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_F08BFE2745A541
+请求参数:null
+请求时间:Wed Aug 30 16:39:23 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_8E53E3C7916F41
+请求参数:null
+请求时间:Wed Aug 30 16:39:23 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_21F9B995410047
+请求参数:null
+请求时间:Wed Aug 30 16:39:41 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_AAFCBF8D1F0E45
+请求参数:null
+请求时间:Wed Aug 30 16:40:07 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @NeedSuper注解实现类出错:对方法——deleteAll,没有权限
+返回值:null
+****************************************************************
+日志标识:pk_28CCE21181B548
+请求参数:null
+请求时间:Thu Aug 31 10:37:34 CST 2023
+请求状态:20
+异常信息:判断用户名密码时出错nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: HikariDataSource HikariDataSource (null) has been closed.
+### The error may exist in main/order/mapper/LoginMapper.xml
+### The error may involve main.order.mapper.LoginMapper.sreachByUsername
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: HikariDataSource HikariDataSource (null) has been closed.判断用户名密码时出错nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: HikariDataSource HikariDataSource (null) has been closed.
+### The error may exist in main/order/mapper/LoginMapper.xml
+### The error may involve main.order.mapper.LoginMapper.sreachByUsername
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: HikariDataSource HikariDataSource (null) has been closed.
+返回值:null
+****************************************************************
+日志标识:pk_6A35460C52F441
+请求参数:null
+请求时间:Thu Aug 31 13:41:08 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_5C07B3ADC49747
+请求参数:null
+请求时间:Thu Aug 31 14:36:29 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_3F11215695804A
+请求参数:null
+请求时间:Thu Aug 31 14:37:16 CST 2023
+请求状态:20
+异常信息:@HasPressmion注解实现类出错:用户掉线@HasPressmion注解实现类出错:用户掉线
+返回值:null
+****************************************************************
+日志标识:pk_C6F28AD0B13E4D
+请求参数:null
+请求时间:Thu Aug 31 14:43:33 CST 2023
+请求状态:20
+异常信息:请登录请登录
+返回值:null
+****************************************************************
+日志标识:pk_0CC41C706D544B
+请求参数:null
+请求时间:Thu Aug 31 14:43:55 CST 2023
+请求状态:20
+异常信息:请登录!请登录!
+返回值:null
+****************************************************************
+日志标识:pk_9A37D4D5037B4E
+请求参数:null
+请求时间:Thu Aug 31 14:44:11 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户lkx00001无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_D6EF20C7A3CC47
+请求参数:null
+请求时间:Thu Aug 31 14:44:21 CST 2023
+请求状态:20
+异常信息:@HasPressmion注解实现类出错:null@HasPressmion注解实现类出错:null
+返回值:null
+****************************************************************
+日志标识:pk_9F23E056FD9940
+请求参数:null
+请求时间:Thu Aug 31 14:46:03 CST 2023
+请求状态:20
+异常信息:@HasPressmion注解实现类出错:null@HasPressmion注解实现类出错:null
+返回值:null
+****************************************************************
+日志标识:pk_389A6D54091444
+请求参数:null
+请求时间:Thu Aug 31 14:46:19 CST 2023
+请求状态:20
+异常信息:请登录!请登录!
+返回值:null
+****************************************************************
+日志标识:pk_B4049AC7F4614B
+请求参数:null
+请求时间:Thu Aug 31 14:46:23 CST 2023
+请求状态:20
+异常信息:请登录!请登录!
+返回值:null
+****************************************************************
+日志标识:pk_964FE006D19F45
+请求参数:null
+请求时间:Thu Aug 31 14:46:25 CST 2023
+请求状态:20
+异常信息:请登录!请登录!
+返回值:null
+****************************************************************
+日志标识:pk_BD120A4076A141
+请求参数:null
+请求时间:Thu Aug 31 14:46:30 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_810CABCB28C041
+请求参数:null
+请求时间:Thu Aug 31 14:46:33 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户lkx00001无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_5D8116473F9D47
+请求参数:null
+请求时间:Thu Aug 31 14:49:05 CST 2023
+请求状态:20
+异常信息:Required request body is missing: public main.order.tool.ResultTool<java.lang.String> main.order.controller.LoginController.login(main.order.entity.LoginVO,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws main.order.tool.exception.MyExceptionRequired request body is missing: public main.order.tool.ResultTool<java.lang.String> main.order.controller.LoginController.login(main.order.entity.LoginVO,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws main.order.tool.exception.MyException
+返回值:null
+****************************************************************
+日志标识:pk_8C7C3A72BB0D45
+请求参数:null
+请求时间:Thu Aug 31 14:50:26 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_8EFE5C3A085649
+请求参数:null
+请求时间:Thu Aug 31 14:50:29 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户admin无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_D21F4A30D09C42
+请求参数:null
+请求时间:Thu Aug 31 14:50:35 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户admin无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_BE148F5D405946
+请求参数:null
+请求时间:Thu Aug 31 14:51:52 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户admin无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_FADDC0698A9D4F
+请求参数:null
+请求时间:Thu Aug 31 14:54:27 CST 2023
+请求状态:20
+异常信息:请登录!请登录!
+返回值:null
+****************************************************************
+日志标识:pk_05BD082DFAF947
+请求参数:null
+请求时间:Thu Aug 31 14:54:34 CST 2023
+请求状态:20
+异常信息:null330127114055056639main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户lkx00001无deleteAll的权限
+返回值:null
+****************************************************************
+日志标识:pk_E6C5A627284341
+请求参数:null
+请求时间:Thu Aug 31 14:54:36 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_353AED4A46BA40
+请求参数:null
+请求时间:Thu Aug 31 14:54:42 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_1A7ECE94EA6245
+请求参数:null
+请求时间:Thu Aug 31 15:00:12 CST 2023
+请求状态:20
+异常信息:重复的登录重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_8F2DB8B5349F4B
+请求参数:null
+请求时间:Thu Aug 31 15:01:22 CST 2023
+请求状态:20
+异常信息:重复的登录重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_A47E7D964CBA49
+请求参数:null
+请求时间:Thu Aug 31 15:01:33 CST 2023
+请求状态:20
+异常信息:重复的登录重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_082A51F0DB674B
+请求参数:null
+请求时间:Thu Aug 31 15:02:09 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_6F987CE48DDE48
+请求参数:null
+请求时间:Thu Aug 31 15:02:12 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_A001EAF208DD47
+请求参数:null
+请求时间:Thu Aug 31 15:02:12 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_28C026BD5B574E
+请求参数:null
+请求时间:Thu Aug 31 15:02:13 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_68F41E5411D947
+请求参数:null
+请求时间:Thu Aug 31 15:02:13 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_D17927BB011B4E
+请求参数:null
+请求时间:Thu Aug 31 15:02:14 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_FDE8AEDB892C45
+请求参数:null
+请求时间:Thu Aug 31 15:02:14 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_306D72F549204E
+请求参数:null
+请求时间:Thu Aug 31 15:02:16 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_AD4876499B364D
+请求参数:null
+请求时间:Thu Aug 31 15:02:17 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_604C8B2827CF4A
+请求参数:null
+请求时间:Thu Aug 31 15:02:19 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_3E7F84557B5142
+请求参数:null
+请求时间:Thu Aug 31 15:02:20 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_01CADA9280794B
+请求参数:null
+请求时间:Thu Aug 31 15:02:21 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_4B5528DF0D7C4C
+请求参数:null
+请求时间:Thu Aug 31 15:02:23 CST 2023
+请求状态:20
+异常信息:null330127114055056639---main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户lkx00001无deleteAll的权限---
+返回值:null
+****************************************************************
+日志标识:pk_23239E2A6D6C44
+请求参数:null
+请求时间:Thu Aug 31 15:06:51 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_B07465E478B646
+请求参数:null
+请求时间:Thu Aug 31 15:07:26 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_C465A24315F143
+请求参数:null
+请求时间:Thu Aug 31 15:15:12 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_FD183CEF50DC44
+请求参数:null
+请求时间:Thu Aug 31 15:15:17 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_4D9EA14E01614C
+请求参数:null
+请求时间:Thu Aug 31 15:15:19 CST 2023
+请求状态:20
+异常信息:null330127114055056639---main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户lkx00001无deleteAll的权限---
+返回值:null
+****************************************************************
+日志标识:pk_75973EA965CB4C
+请求参数:null
+请求时间:Thu Aug 31 15:15:22 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_2DBF7BDA45AC40
+请求参数:null
+请求时间:Thu Aug 31 15:15:29 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_D15904676E0646
+请求参数:null
+请求时间:Thu Aug 31 15:15:31 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_5C889474B80647
+请求参数:null
+请求时间:Thu Aug 31 15:20:13 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_853BF6EC7DE14B
+请求参数:null
+请求时间:Thu Aug 31 15:20:15 CST 2023
+请求状态:20
+异常信息:null330127114055056639---main.order.tool.exception.MyException: @HasPressmion注解实现类出错:此用户lkx00001无deleteAll的权限---
+返回值:null
+****************************************************************
+日志标识:pk_70A36E68F9904C
+请求参数:null
+请求时间:Thu Aug 31 15:20:20 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_2C42CD97A74C42
+请求参数:null
+请求时间:Thu Aug 31 15:20:24 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_8B755023C10D43
+请求参数:null
+请求时间:Thu Aug 31 15:20:27 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_43AA3626025C46
+请求参数:null
+请求时间:Thu Aug 31 15:20:29 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_596D8F1F409F4C
+请求参数:null
+请求时间:Sat Sep 02 11:55:21 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_559899164CD845
+请求参数:null
+请求时间:Sat Sep 02 11:56:22 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_239E4B202A0448
+请求参数:null
+请求时间:Sat Sep 02 11:56:59 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_EA925328AA4740
+请求参数:null
+请求时间:Sat Sep 02 11:57:57 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_625C2DFE715349
+请求参数:null
+请求时间:Sat Sep 02 11:58:06 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_7928AB88F10E4D
+请求参数:null
+请求时间:Sat Sep 02 11:58:13 CST 2023
+请求状态:20
+异常信息:aop选择数据源失败
+返回值:null
+****************************************************************
+日志标识:pk_38F0EADEEA8349
+请求参数:null
+请求时间:Sat Sep 02 11:58:59 CST 2023
+请求状态:20
+异常信息:aop选择数据源失败
+返回值:null
+****************************************************************
+日志标识:pk_4F6FBB6CB3A247
+请求参数:null
+请求时间:Sat Sep 02 11:59:16 CST 2023
+请求状态:20
+异常信息:aop选择数据源失败
+返回值:null
+****************************************************************
+日志标识:pk_54E09CD988C949
+请求参数:null
+请求时间:Sat Sep 02 11:59:23 CST 2023
+请求状态:20
+异常信息:aop选择数据源失败
+返回值:null
+****************************************************************
+日志标识:pk_2D150B03E88547
+请求参数:null
+请求时间:Sat Sep 02 11:59:45 CST 2023
+请求状态:20
+异常信息:aop选择数据源失败
+返回值:null
+****************************************************************
+日志标识:pk_E8F46FA2CA1B44
+请求参数:null
+请求时间:Sat Sep 02 11:59:57 CST 2023
+请求状态:20
+异常信息:aop选择数据源失败main.order.controller.LoginController cannot be cast to java.lang.Class
+返回值:null
+****************************************************************
+日志标识:pk_B8A2D6DE614A45
+请求参数:null
+请求时间:Sun Sep 03 09:24:47 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_B1A7E1129C3346
+请求参数:null
+请求时间:Sun Sep 03 09:26:20 CST 2023
+请求状态:20
+异常信息:查询家家悦Orcale数据库失败
+返回值:null
+****************************************************************
+日志标识:pk_5B72FC36DA4445
+请求参数:null
+请求时间:Sun Sep 03 09:28:39 CST 2023
+请求状态:20
+异常信息:查询家家悦Orcale数据库失败
+返回值:null
+****************************************************************
+日志标识:pk_5C68B9FBA50F4A
+请求参数:null
+请求时间:Sun Sep 03 09:30:28 CST 2023
+请求状态:20
+异常信息:查询家家悦Orcale数据库失败
+返回值:null
+****************************************************************
+日志标识:pk_6B2B951A409748
+请求参数:null
+请求时间:Sun Sep 03 09:49:30 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_66D5A81B2FAE4E
+请求参数:null
+请求时间:Sun Sep 03 09:50:25 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************
+日志标识:pk_B7D5CCF1BE0041
+请求参数:null
+请求时间:Sun Sep 03 09:53:07 CST 2023
+请求状态:20
+异常信息:重复的登录
+返回值:null
+****************************************************************
+日志标识:pk_65B8C00D2AE542
+请求参数:null
+请求时间:Sun Sep 03 09:53:12 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_FBB4F0F991274D
+请求参数:[orderPk:PK_A0000685
+orderId:ID_A000001
+orderName:名称1
+orderNum:1555
+, orderPk:PK_A0000706
+orderId:ID_A000002
+orderName:名称2
+orderNum:1666
+]
+请求时间:Sun Sep 03 09:53:24 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_9DC7ECA90DEC45
+请求参数:null
+请求时间:Sun Sep 03 09:53:28 CST 2023
+请求状态:10
+异常信息:null
+返回值:null
+****************************************************************
+日志标识:pk_F9277425F30F40
+请求参数:null
+请求时间:Mon Sep 04 09:15:03 CST 2023
+请求状态:20
+异常信息:请登录!
+返回值:null
+****************************************************************

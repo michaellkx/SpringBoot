@@ -1,0 +1,45 @@
+#yml不可以使用驼峰命名,全部小写
+
+path: localhost:/${server.port}
+pushMessageTime: "15:00:00"
+
+server:
+  port: 8081
+  tomcat:
+    uri-encoding: utf-8
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/testspringclould?serverTimezone=CST  #中文乱码问题
+    username: root
+    password: 123456
+
+  #自定义数据源关键字,因为使用多个数据源,Springboot无法明确通过那个数据源进行初始化,所以禁掉Springboot启动类的数据源自动配置—————— @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
+  #也就是说上方数据库配置相关的yml文本失效,需要手动去初始化数据源
+    defdatasource1:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/testspringclould?serverTimezone=CST
+      username: root
+      password: 123456
+
+    defdatasource2:
+      driver-class-name: oracle.jdbc.driver.OracleDriver
+      url:  jdbc:oracle:thin:@localhost:1521:ORCL
+      username: NC65train
+      password: a
+
+  druid: ## druid数据库连接池的基本初始化属性
+    initial-size: 5 ## 连接池初始化的大小
+    min-idle: 1 ## 最小空闲的线程数
+    max-active: 20 ## 最大活动的线程数
+
+
+
+#  redis:
+#    host: 127.0.0.1
+#    port: 8818
+#    password : def123456
+
+
+
+# url: jdbc:mysql://localhost:3306/testspringclould?serverTimezone=CST;characterEncoding=utf-8
